@@ -5,22 +5,6 @@ REGNO:212224040001
 # AIM:
 To write a html webpage page to display your slot timetable
 
-# ALGORITHM
-
-STEP 1
-Create a static folder and inert HTML code.
-
-STEP 2
-Create a simple table using <table> tag in html.
-
-STEP 3
-Add header row using <th> tag.
-
-STEP 4
-Add your timetable using <td> tag.
-
-STEP 5
-Execute the program using runserver command.
 
 # PROGRAM
 ```
@@ -136,5 +120,11 @@ Execute the program using runserver command.
 
 ```
 
+
+
+
 # OUTPUT
 <img width="916" height="906" alt="image" src="https://github.com/user-attachments/assets/a0dc6814-76b9-49aa-9259-d58b18800c3d" />
+
+# RESULT
+The program for creating slot timetable using basic HTML tags is executed successfully.
