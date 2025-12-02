@@ -1,7 +1,4 @@
 # Ex03-Time-Table
--AADHITHAN B 212224040001
-REGNO:212224040001
-
 # AIM:
 To write a html webpage page to display your slot timetable
 
